@@ -29,19 +29,19 @@ Performance metrics such as accuracy, precision, and recall are used to assess t
 
 ## Results
 
-confusion matrix:
+### confusion matrix:
 
-<div align="right">
+<div align="left">
 	<img src="images/confusionmatrix.png">
 </div>
 
-## classification report:
+### classification report:
 
-<div align="right">
+<div align="left">
 	<img src="images/classificationreport.png">
 </div>
 
-### Summary
+## Summary
 The analysis demonstrates that the evaluated model performs exceptionally well:
 
 - Top Model:
