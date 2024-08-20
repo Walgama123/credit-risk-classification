@@ -11,7 +11,7 @@ This report evaluates machine learning models used to assess loan bay back risk,
 ## Objective: 
 The analysis seeks to determine how well various models can predict whether a loan applicant will default or not. Accurate predictions help in managing lending risks and preventing financial setbacks.
 
-## Data Context and Prediction Goal
+## Data Context and Prediction Goal:
 - Dataset:
 The dataset includes various financial features of loan applicants. The primary task is to classify applicants as either high-risk  (likely to default) or low risk (likely to repay successfully). Understanding these classifications helps in making better credit decisions.
 - Dataset Variables:
@@ -27,7 +27,7 @@ Models are trained using the prepared data to learn the patterns associated with
 - Model Evaluation: 
 Performance metrics such as accuracy, precision, and recall are used to assess the models on a test set.
 
-## Results
+## Results:
 
 ### confusion matrix:
 
@@ -41,7 +41,7 @@ Performance metrics such as accuracy, precision, and recall are used to assess t
 	<img src="images/classificationreport.png">
 </div>
 
-## Summary
+## Summary:
 The analysis demonstrates that the evaluated model performs exceptionally well:
 
 - Top Model:
